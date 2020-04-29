@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class MultiArray {
     public static void main (String [] args) {
 
-        
+
         String [][] myArray = new String [10] [5];
         for (int i = 0; i < 10; i++) {
 
